@@ -1,0 +1,11 @@
+Rebecca Melo
+10/6/2021
+
+Pandas Challenge Homework – Conclusions
+
+
+Write a description of three observable trends based on the data.
+
+1. Men are the predominant players of Heroes of Pymoli (484 out of 576), making up 84% of the total players.
+2. The game was most popular among people aged 20-24 (258 out of 576), making up 45% of the total players. They contributed a total of $1,967.64 in sales. 
+3. “Final Critic” is the most popular and most profitable purchased item, with 13 purchases, it made a total of $59.99 in revenue. 
